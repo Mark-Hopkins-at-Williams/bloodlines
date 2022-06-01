@@ -1,7 +1,6 @@
 import unittest
 import pandas as pd
-from variable import Variable
-from factor import Factor
+from factor import Variable, Factor
 from bayes import BayesianNetwork
 
 

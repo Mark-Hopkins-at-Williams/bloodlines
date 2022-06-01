@@ -1,7 +1,6 @@
 import unittest
 import pandas as pd
-from variable import Variable
-from factor import Factor, multiply
+from factor import Variable, Factor, multiply
 
 
 def example_factors():

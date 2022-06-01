@@ -1,4 +1,3 @@
-from variable import instantiations
 from collections import defaultdict
 import numpy as np
 from scipy.sparse.csgraph import minimum_spanning_tree

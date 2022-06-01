@@ -2,7 +2,6 @@ import numpy as np
 import os
 import pygame as pg
 import threading
-from variable import Variable
 from bayes import BayesianNetwork
 from junction import BeliefPropagation
 from junction import build_junction_tree_for_bayes_net

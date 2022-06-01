@@ -1,8 +1,7 @@
 import numpy as np
 import os
 import pygame as pg
-from variable import Variable
-from factor import Factor
+from factor import Factor, Variable
 from bayes import BayesianNetwork
 
 

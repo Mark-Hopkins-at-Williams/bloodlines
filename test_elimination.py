@@ -1,7 +1,6 @@
 import unittest
 import pandas as pd
-from variable import Variable
-from factor import Factor
+from factor import Factor, Variable
 from bayes import BayesianNetwork
 from elimination import conditional_prob, min_degree_elim_order
 
